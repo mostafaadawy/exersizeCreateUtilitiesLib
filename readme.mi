@@ -1,0 +1,12 @@
+mkdir exersize
+cd exersize
+mkdir utilities
+touch readme.mi
+touch index.js
+touch sample.js
+cd utilities
+touch sumConcat.js
+touch largestSplice.js
+//copy past samples functions and then create code for index to expo=rt and test
+do not forget module.exports={}
+run    node . or node index.js
